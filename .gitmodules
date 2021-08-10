@@ -1,0 +1,9 @@
+[submodule "external_lib/MedCommon"]
+	path = external_lib/MedCommon
+	url = https://github.com/searobbersduck/MedCommon.git
+[submodule "external_lib/torchio"]
+	path = external_lib/torchio
+	url = https://github.com/searobbersduck/torchio.git
+[submodule "external_lib/3D-ResNets-PyTorch"]
+	path = external_lib/3D-ResNets-PyTorch
+	url = https://github.com/kenshohara/3D-ResNets-PyTorch.git
